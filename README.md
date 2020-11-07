@@ -21,8 +21,8 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 ### Connect with me:
 
 
-<a href="https://twitter.com/deepansharora27"
-  ><img
+<a href="https://twitter.com/deepansharora27" >
+  <img
     align="left"
     alt="codeSTACKr | Twitter"
     width="22px"
