@@ -10,5 +10,6 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 - 💬 Ask me about **Web Development , Cloud Computing , Data Structures and Algorithms**
 - 📫 How to reach me: deepansharora27@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His/Him
+- ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
 
