@@ -1,5 +1,8 @@
 ### Hey !! I'm Deepanshu Arora 👋
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
 ### Thanks for Stopping By !!
 
 I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rachna International University , Faridabad 👨‍🎓 . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
@@ -17,9 +20,6 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 ### Connect with me:
 
-[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.linkedin.com/in/deepansharora27/]
-[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 ### Tech Stack 
 
