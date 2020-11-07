@@ -73,7 +73,7 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  ### <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
