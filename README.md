@@ -19,9 +19,13 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 ### Languages and Tools
 
-Languages and Tools:
+<img
+  src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"
+  alt="C++"
+  height="50"
+  width="50"
+/>
 
-cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
 
 
 
