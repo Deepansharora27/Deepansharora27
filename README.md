@@ -20,7 +20,7 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 ### Languages and Tools
 
 <img
-  src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"
+  src="https://img.favpng.com/13/14/25/the-c-programming-language-png-favpng-x2FKZ86GuA0YStdCDY8nQU5Z4.jpg"
   alt="C++"
   height="50"
   width="50"
