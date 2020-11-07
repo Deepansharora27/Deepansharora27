@@ -7,7 +7,7 @@
 
 I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rachna International University , Faridabad 👨‍🎓 . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
 
-- 🔭 I’m currently exploring Web Development Using the MERN Stack 
+- 🔭 I’m currently exploring Full Stack Web Development Using the MERN Stack 
 
 - 🌱 I’m currently learning more about **Cloud Computing**
 
@@ -76,7 +76,7 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 
 <details>
-  ### <summary>:zap: GitHub Stats</summary>
+   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Deepanshu's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Deepansharora27&show_icons=true&hide_border=true" />
 
