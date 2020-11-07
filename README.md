@@ -1,8 +1,11 @@
 ### Hey !! I'm Deepanshu Arora 👋
 
+### Thanks for Stopping By !!
+
+I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rachna International University , Faridabad 👨‍🎓
 
 
-- 🔭 I’m currently exploring MERN Stack Web Development
+- 🔭 I’m currently exploring Web Development Using the MERN Stack 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
