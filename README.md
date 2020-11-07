@@ -9,13 +9,17 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 - 🌱 I’m currently learning more about **Cloud Computing**
 
 - 💬 Ask me about **Web Development , Cloud Computing , Data Structures and Algorithms**
-- 📫 How to reach me: [Twitter - @Deepansharora27](https://twitter.com/deepansharora27) , [Instagram - @deepanshu.codes](https://www.instagram.com/deepanshu.codes/)
-
 
 - 😄 Pronouns: He/His/Him
 - ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
 
 - I am Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
+
+### Connect with me:
+
+[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://www.linkedin.com/in/deepansharora27/]
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
 ### Tech Stack 
 
