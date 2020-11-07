@@ -19,6 +19,10 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 ### Languages and Tools
 
+Languages and Tools:
+
+cpp python javascript nodejs expressjs react graphql sql mongodb git terminal
+
 
 
 
