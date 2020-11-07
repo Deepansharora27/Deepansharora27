@@ -9,7 +9,7 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 - 🌱 I’m currently learning more about **Cloud Computing**
 
 - 💬 Ask me about **Web Development , Cloud Computing , Data Structures and Algorithms**
-- 📫 How to reach me: [Twitter - @Deepansharora27](https://twitter.com/deepansharora27) , [Instagram : @deepanshu.codes](https://www.instagram.com/deepansharora26/)
+- 📫 How to reach me: [Twitter - @Deepansharora27](https://twitter.com/deepansharora27) , [Instagram - @deepanshu.codes](https://www.instagram.com/deepanshu.codes/)
 
 
 - 😄 Pronouns: He/His/Him
