@@ -13,3 +13,7 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 - 😄 Pronouns: He/His/Him
 - ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
 
+- Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
+
+-I also maintain an active repository where I keep documenting the Algorithmic Problems that I have solved.
+
