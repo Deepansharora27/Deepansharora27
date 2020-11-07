@@ -24,28 +24,28 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
   alt="C++"
   height="50"
   width="50"
-/>
+/> &nbsp;
 
 <img
   src="https://img.favpng.com/16/8/1/node-js-javascript-express-js-runtime-system-chrome-v8-png-favpng-023AE8evTHhFc9vyfYhF0ikdj.jpg"
   alt="C++"
   height="50"
   width="50"
-/>
+/> &nbsp;
 
 <img
   src="https://img.favpng.com/3/14/20/react-javascript-library-angularjs-web-application-png-favpng-8LUN3ddsGLnKnYPNEmHCGBggU.jpg"
   alt="C++"
   height="50"
   width="50"
-/>
+/> &nbsp; 
 
 <img
   src="https://img.favpng.com/4/0/25/python-logo-clojure-javascript-png-favpng-nCzz7E30hyikMZdgnLrBgf1GV.jpg"
   alt="C++"
   height="50"
   width="50"
-/>
+/> &nbsp;
 
 
 
