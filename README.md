@@ -17,35 +17,19 @@ I am a Final Year Student Pursuing my Majors in Computer Science from Manav Rach
 
 - I am Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
 
-### Languages and Tools
+### Tech Stack 
 
-<img
-  src="https://img.favpng.com/13/14/25/the-c-programming-language-png-favpng-x2FKZ86GuA0YStdCDY8nQU5Z4.jpg"
-  alt="C++"
-  height="50"
-  width="50"
-/> &nbsp;
-
-<img
-  src="https://img.favpng.com/16/8/1/node-js-javascript-express-js-runtime-system-chrome-v8-png-favpng-023AE8evTHhFc9vyfYhF0ikdj.jpg"
-  alt="C++"
-  height="50"
-  width="50"
-/> &nbsp;
-
-<img
-  src="https://img.favpng.com/3/14/20/react-javascript-library-angularjs-web-application-png-favpng-8LUN3ddsGLnKnYPNEmHCGBggU.jpg"
-  alt="C++"
-  height="50"
-  width="50"
-/> &nbsp; 
-
-<img
-  src="https://img.favpng.com/4/0/25/python-logo-clojure-javascript-png-favpng-nCzz7E30hyikMZdgnLrBgf1GV.jpg"
-  alt="C++"
-  height="50"
-  width="50"
-/> &nbsp;
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
 
