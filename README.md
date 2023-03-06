@@ -5,7 +5,7 @@
 
 ### Thanks for Stopping By !!
 
-I am Deepanshu Pursuing my Master's in Computer Science . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
+<!-- I am Deepanshu Pursuing my Master's in Computer Science . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
 
 - 🔭 I’m currently exploring Full Stack Web Development Using the MERN Stack 
 
@@ -17,7 +17,7 @@ I am Deepanshu Pursuing my Master's in Computer Science . I am passionate about 
 - ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
 
 - I am Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
-
+ -->
 ### Connect with me:
 
 
