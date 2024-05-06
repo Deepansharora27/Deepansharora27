@@ -5,19 +5,32 @@
 
 ### Thanks for Stopping By !!
 
-<!-- I am Deepanshu Pursuing my Master's in Computer Science . I am passionate about a Variety of Domains in Computer Science including **Cloud Computing , Full Stack Web Development** I also love to constantly explore new technologies and leveraging them to solve real world problems . Currently , I am exploring the Depth Of Web Development 👨🏻‍💻 Using the MERN Stack and Parallely amping up my Data Structure and Algorithm Skills. 
+Deepanshu has completed his Undergrad in Computer Science from Manav Rachna International University in the Year 2021.
 
-- 🔭 I’m currently exploring Full Stack Web Development Using the MERN Stack 
+He was an active Individual Contributor to one of the Leading Open Source Project Enarx(A Part Of Confidential Computing Consortium), which is a community focused on Open Source Licensed Projects securing data in use and accelerating the Adoption of Confidential Computing. 
 
-- 🌱 I’m currently learning more about **Cloud Computing**
+It Provides a platform abstraction for Trusted Execution Environments(TEEs) enabling creating and running private, fungible and serverless applications.
 
-- 💬 Ask me about **Web Development , Cloud Computing , Data Structures and Algorithms**
+During his course of Contribution, He dived into the Landscape of WebAssembly, Confidential Computing and Trusted Execution Environments and tried to connect the dots and draw parallels between them.
 
-- 😄 Pronouns: He/His/Him
-- ⛈️ Fun Fact About Me : Apart from my Technical Pursuits ,I like to explore about **Evolutionary Psychology and Neuroscience**
+Due to his Significant contributions and consistency, He was offered a 3 months Fully Remote Internship Position@Confidential Computing Consortium. He Accomplished the Following things:
 
-- I am Well Versed with the Concepts of Data Structures and Algorithms and have solved over 100+ problems on various platforms including. Codezen,Leetcode and Hackerrank.
- -->
+1). External Multilanguage Support Guide: Successfully Led and Implemented support for Major Languages such as C,C++,JavaScript,TypeScript,Java,.NET with the Project which serves as a basis/starting point for Existing as well as Potential Customers willing to migrate their Workloads/Applications developed in Multiple Languages to the Cloud.
+
+Significant Accomplishments during the Internship Period:
+Got Featured on WasmWeekly, a weekly newsletter for WebAssembly with a distribution of approximately 11,500 people for my work on authoring and implementing Tutorial Guide for JavaScript Support outside Browser Sandbox Environments
+
+Other Accomplishments:
+- With the amount of learnings that he had, He Gave his First International Talk and gave a brief walkthrough briefing about the Enhanced Security and Networking for Applications in Trusted Execution Environments(TEEs) at First International Developer Conference and shared the stage with Engineers from Influential Companies Like Microsoft, Intel, IBM, Google 
+
+- He has also been Selected both as a Speaker and Attendee to one of the Leading International Conferences, Open Source Summit China and Open Source Summit Europe 
+
+Currently, He is Working at encloud,London remotely as a Software Engineer and have accomplished the following till date:
+- Lead the Privacy Enhancing Technology Module and delivered it successfully. 
+- Development of Privacy Enabled Generative Artificial Intelligence solutions for Enterprises 
+
+Apart from Work, you will find him indulged in reading about Evolutionary Psychology and Philosophy
+
 ### Connect with me:
 
 
